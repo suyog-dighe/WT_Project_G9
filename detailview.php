@@ -193,6 +193,7 @@
             <button type="submit" name="edit" class="btn btn-primary">Edit</button>
             <button type="submit" name="delete" class="btn btn-default">Delete</button>
             <button type="submit" name="close" class="btn btn-primary">Close</button>
+			
         </div>
 	</div>
 </div>
