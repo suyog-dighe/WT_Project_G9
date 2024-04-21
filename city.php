@@ -144,7 +144,7 @@
         </div>
             <div class="col-md-12 form-group">
               <button type="submit" name="cityy" class="btn btn-primary">Add</button>
-              <button type="reset" class="btn btn-default">Reset</button>
+              <!-- <button type="reset" class="btn btn-default">Reset</button> -->
               
             </div>
           <div class="clearfix"> </div>
